@@ -1,0 +1,22 @@
+Ticker,Empresa,Sector,Precio,volumen nom,q_bid,px_bid,px_ask,q_ask,q_op,pct_change,,
+ALUA,Aluar,Aluminio / Industrial,978,851358,4807,973,978,2348,2231,"3,93",,"965,5"
+BBAR,BBVA Argentina,Bancario,7880,739293,30,7860,7945,34,2513,"-3,07",,7985
+BMA,Banco Macro,Bancario,11790,153417,4,11790,11950,5,1883,"-1,09",,11930
+BYMA,Bolsas y Mercados Argentinos,Finanzas / Mercado,341,1875338,100,"340,5","341,25",962,2055,"1,41",,"340,75"
+CEPU,Central Puerto,Energía,2472,1617310,182,2472,2478,1144,2773,"-0,20",,2499
+COME,Sociedad Comercial del Plata,Holding,"48,5",14249816,1000,"49,9","47,77",6775,2565,"-6,00",,"50,4"
+CRES,Cresud,Agro / Real Estate,1783,250836,3407,1782,1789,2,1315,"-3,41",,1813
+EDN,Edenor,Energía,2184,683778,4,2176,2203,50,1986,"-5,12",,2228
+GGAL,Grupo Financiero Galicia,Bancario,7075,3981057,7603,7075,7085,48,10376,"1,14",,7125
+HARG,Harengus (ex Holcim Argentina),Construcción,1800,49248,398,1790,1800,594,258,"1,98",,1870
+LOMA,Loma Negra,Cemento / Construcción,3645,1755645,83,3645,3670,2,3911,"3,11",,"3647,5"
+MIRG,Mirgor,Tecnología / Industrial,18725,"2821,7",96,18400,18725,148,155,"-0,26",,18475
+PAMP,Pampa Energía,Energía,5130,1002456,3,5110,5130,317,4647,"-0,58",,5150
+SUPV,Grupo Supervielle,Bancario,2860,1214500,500,2860,2895,524,2048,"-1,71",,"2877,5"
+TECO2,Telecom Argentina,Telecomunicaciones,"3412,5",394156,5,3400,3410,10,571,"-1,01",,3425
+TGNO4,Transportadora Gas del Norte,Energía,4510,350092,10,4495,4500,958,1217,"-3,99",,4525
+TGSU2,Transportadora Gas del Sur,Energía,9670,197227,309,9620,9670,31,1877,"-2,71",,9675
+TRAN,Transener,Energía,4090,501092,1,3995,"4092,5",1000,2060,"-1,91",,3970
+TXAR,Ternium Argentina,Siderurgia,"706,5",1109890,802,700,"706,5",9655,1878,"4,51",,708
+VALO,Grupo Financiero Valores,Finanzas,705,4448733,81000,704,705,7000,990,"2,17",,"703,5"
+YPFD,YPF,Energía / Oil & Gas,62925,272660,6,62825,63050,97,6349,"-1,83",,63050
